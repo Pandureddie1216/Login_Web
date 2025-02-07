@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\WebApplication20.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\WebApplication20.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\WebApplication20.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.dll
+c:\users\admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.csprojResolveAssemblyReference.cache
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\csc.exe
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\System.Collections.Immutable.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\System.Reflection.Metadata.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\vbc.exe
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\VBCSCompiler.exe
+E:\Pandu\WebApplication20\WebApplication20\bin\roslyn\VBCSCompiler.exe.config
+E:\Pandu\WebApplication20\WebApplication20\bin\WebApplication20.dll.config
+E:\Pandu\WebApplication20\WebApplication20\bin\WebApplication20.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\WebApplication20.pdb
+E:\Pandu\WebApplication20\WebApplication20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Pandu\WebApplication20\WebApplication20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Pandu\WebApplication20\WebApplication20\obj\Debug\WebApplication20.csprojResolveAssemblyReference.cache
+E:\Pandu\WebApplication20\WebApplication20\obj\Debug\WebApplication20.dll
+E:\Pandu\WebApplication20\WebApplication20\obj\Debug\WebApplication20.pdb
